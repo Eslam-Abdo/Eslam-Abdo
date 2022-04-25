@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eslam-abdo" alt="eslam-abdo" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://Eslam-Abdo.github.io/developerFolio](https://Eslam-Abdo.github.io/developerFolio)
+- 👨‍💻 All of my projects are available at [my portfolio](https://Eslam-Abdo.github.io/)
 
 - 💬 Ask me about **Embedded System**
 
 - 📫 How to reach me **eng-islam.abdo1722@alexu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing](https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing)
+- 📄 Know about my experiences [see my resume](https://drive.google.com/drive/folders/1sa5V7hjf66fkZuOpJz1Th2jQNC9WBKOk?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
